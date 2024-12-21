@@ -36,7 +36,7 @@ In essence, this website offers a concise and visually engaging introduction to 
 ### Links
 
 - Solution URL: (https://github.com/gkilasonia/Product-preview-card-component)
-- Live Site URL: (https://kilasa-blog-preview-card.netlify.app/)
+- Live Site URL: (https://kilasa-product-preview-card-component.netlify.app/)
 
 ## My process
 
