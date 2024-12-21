@@ -107,10 +107,6 @@ main {
 }
 
 .attribution {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
   font-size: 11px;
   text-align: center;
 }
@@ -162,5 +158,12 @@ main {
 
   .cart-btn {
     margin-top: 30px;
+  }
+
+  .attribution {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
   }
 }
