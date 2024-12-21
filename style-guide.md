@@ -15,6 +15,7 @@ The designs were created to the following widths:
 
 - Dark cyan: hsl(158, 36%, 37%)
 - Cream: hsl(30, 38%, 92%)
+  hsl(158, 42%, 18%)
 
 ### Neutral
 
@@ -37,3 +38,14 @@ The designs were created to the following widths:
 - Weights: 700
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+
+perfume-text - 12px
+header - 32px
+description-text - 14px
+price-text - 32px
+underlined-price-text 13px
+cart-btn - 14px
+
+6.375
+
+5.625
